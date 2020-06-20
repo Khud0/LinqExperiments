@@ -1,0 +1,11 @@
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\bin\Debug\netcoreapp3.1\LinqExperiments.exe
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\bin\Debug\netcoreapp3.1\LinqExperiments.deps.json
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\bin\Debug\netcoreapp3.1\LinqExperiments.runtimeconfig.json
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\bin\Debug\netcoreapp3.1\LinqExperiments.runtimeconfig.dev.json
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\bin\Debug\netcoreapp3.1\LinqExperiments.dll
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\bin\Debug\netcoreapp3.1\LinqExperiments.pdb
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\obj\Debug\netcoreapp3.1\LinqExperiments.csprojAssemblyReference.cache
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\obj\Debug\netcoreapp3.1\LinqExperiments.AssemblyInfoInputs.cache
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\obj\Debug\netcoreapp3.1\LinqExperiments.AssemblyInfo.cs
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\obj\Debug\netcoreapp3.1\LinqExperiments.dll
+C:\Files\C# Projects\LinqExperiments\LinqExperiments\obj\Debug\netcoreapp3.1\LinqExperiments.pdb
